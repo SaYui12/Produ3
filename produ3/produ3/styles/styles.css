@@ -1,0 +1,15 @@
+.logo-container {
+    text-align: center;
+    padding: 25px 0px;
+    font-weight: 700;
+}
+
+.logo {
+    color: #ffffff;
+    background: #E3051b;
+    height: 50px;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding: 8px 15px;
+}
+
